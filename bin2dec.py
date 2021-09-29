@@ -1,4 +1,4 @@
-# ------------------------------------------------------
+# patatasquad 4 the win
 # Convierte un número binario a decimal.
 # El binario es un string e.g. "101"
 # ------------------------------------------------------
